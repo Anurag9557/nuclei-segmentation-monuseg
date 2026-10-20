@@ -235,5 +235,3 @@ Dataset: https://monuseg.grand-challenge.org/Data/
 
 Anurag Prakash · IIT (BHU) Varanasi
 
-This is a reimplementation of a published benchmark for learning purposes, not
-novel research. Built with AI assistance.
